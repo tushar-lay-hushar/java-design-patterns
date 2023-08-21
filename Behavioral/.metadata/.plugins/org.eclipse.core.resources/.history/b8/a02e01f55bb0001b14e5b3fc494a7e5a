@@ -1,0 +1,22 @@
+package com.behavioral.observer.subject;
+
+import com.behavioral.observe.Observer;
+import com.behavioral.observer.message.Message;
+
+public class Publisher implements Subject {
+	
+	
+
+	@Override
+	public void attach(Observer o) {
+	}
+
+	@Override
+	public void dettach(Observer o) {
+	}
+
+	@Override
+	public void notifyUpdate(Message m) {
+	}
+
+}

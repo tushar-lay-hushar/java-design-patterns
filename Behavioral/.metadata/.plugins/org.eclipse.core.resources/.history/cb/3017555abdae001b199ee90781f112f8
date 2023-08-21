@@ -1,0 +1,10 @@
+package com.behavioral.iterator;
+
+public interface Iterator<E> {
+	
+	boolean hasNext();
+	
+	E next();
+	
+	
+}

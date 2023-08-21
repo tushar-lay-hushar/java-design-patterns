@@ -1,0 +1,5 @@
+package com.behavioral.observe;
+
+public interface Observer {
+	public void update(Message m);
+}

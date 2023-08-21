@@ -1,0 +1,11 @@
+package com.behavioral.state.context;
+
+public class Fan {
+	
+	private Fan fanOffState;
+	private Fan fanLowState;
+	private Fan fanMedState;
+	private Fan fanHighState;
+	
+	private Fan state;
+}

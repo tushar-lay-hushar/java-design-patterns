@@ -1,0 +1,5 @@
+package com.behavioral.tm;
+
+public abstract class House {
+
+}

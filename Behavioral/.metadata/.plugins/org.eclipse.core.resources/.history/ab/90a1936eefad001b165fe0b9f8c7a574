@@ -1,0 +1,15 @@
+package com.behavioral.cor;
+
+import com.behavioral.cor.request.SupportTicket;
+
+public class L4Support implements Support {
+	
+	private Support handler;
+
+	@Override
+	public void handleTicket(SupportTicket ticket) {
+		if ()
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.behavioral.state.context;
+
+import com.behavioral.state.FanOffState;
+
+public class Fan {
+	
+	private Fan fanOffState;
+	private Fan fanLowState;
+	private Fan fanMedState;
+	private Fan fanHighState;
+	
+	private Fan currentState;
+
+	public Fan() {
+		super();
+		this.currentState = new FanOffState();
+	}
+	
+	
+}

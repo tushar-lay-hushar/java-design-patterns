@@ -1,0 +1,10 @@
+package com.behavioral.cor.request;
+
+public class SupportTicket {
+
+	private int level;
+	private String comments;
+	private boolean isResolved;
+	
+	
+}

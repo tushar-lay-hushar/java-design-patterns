@@ -1,0 +1,11 @@
+package com.behavioral.command.test;
+
+import com.behavioral.command.appliances.Light;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		Light light = new Light();
+	}
+}

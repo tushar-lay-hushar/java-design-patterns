@@ -1,0 +1,10 @@
+package com.behavioral.mediator.collleague;
+
+import com.behavioral.mediator.ChatRoom;
+
+public class User {
+	private ChatRoom mediator;
+	
+	private String id;
+	private String nam;
+}

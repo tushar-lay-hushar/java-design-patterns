@@ -1,0 +1,13 @@
+package com.behavioral.mediator.test;
+
+import com.behavioral.mediator.ChatRoom;
+import com.behavioral.mediator.FacebookChatRoom;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		ChatRoom chatRoom = new FacebookChatRoom();
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.behavioral.strategy;
+
+public class Singer implements Performer {
+
+	@Override
+	public void perform() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

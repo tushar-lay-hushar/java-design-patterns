@@ -1,0 +1,5 @@
+package com.behavioral.cor;
+
+public interface Support {
+
+}

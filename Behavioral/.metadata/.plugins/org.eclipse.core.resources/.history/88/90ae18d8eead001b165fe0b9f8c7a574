@@ -1,0 +1,14 @@
+package com.behavioral.cor;
+
+import com.behavioral.cor.request.SupportTicket;
+
+public class L5Support implements Support {
+
+	@Override
+	public void handleTicket(SupportTicket ticket) {
+		
+		ticket.setResolved(true);
+		
+	}
+
+}

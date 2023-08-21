@@ -1,0 +1,17 @@
+package com.behavioral.mediator.collleague;
+
+public class FacebookUser extends User {
+
+	@Override
+	public void send(String msg, String userId) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void receive(String msg) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

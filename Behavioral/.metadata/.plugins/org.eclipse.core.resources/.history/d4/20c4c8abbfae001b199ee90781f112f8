@@ -1,0 +1,5 @@
+package com.behavioral.iterator.list;
+
+public class ItemsList implements List<E> {
+
+}

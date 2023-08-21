@@ -1,0 +1,5 @@
+package com.behavioral.cor;
+
+public class L5Support implements Support {
+
+}

@@ -1,0 +1,5 @@
+package com.behavioral.state.context;
+
+public class Fan {
+
+}

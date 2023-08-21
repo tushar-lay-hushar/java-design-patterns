@@ -1,0 +1,11 @@
+package com.behavioral.state;
+
+public class FanHighState implements State {
+
+	@Override
+	public void handleRequest() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

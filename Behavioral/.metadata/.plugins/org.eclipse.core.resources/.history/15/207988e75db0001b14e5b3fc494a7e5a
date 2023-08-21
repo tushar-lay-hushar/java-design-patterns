@@ -1,0 +1,13 @@
+package com.behavioral.observe;
+
+import com.behavioral.observer.message.Message;
+
+public class SubscriberTwo implements Observer {
+
+	@Override
+	public void update(Message m) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

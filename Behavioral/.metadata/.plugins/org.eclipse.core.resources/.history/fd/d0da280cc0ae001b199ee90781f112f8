@@ -1,0 +1,14 @@
+package com.behavioral.iterator.list;
+
+import com.behavioral.iterator.Iterator;
+
+public class ItemsList<E> implements List<E> {
+	
+	private E[] elements;
+
+	@Override
+	public Iterator<E> iterator() {
+		return null;
+	}
+
+}

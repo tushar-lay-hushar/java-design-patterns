@@ -1,0 +1,11 @@
+package com.behavioral.state;
+
+public class FanOffState implements State {
+	
+	private Fan fan;
+
+	@Override
+	public void handleRequest() {
+	}
+
+}

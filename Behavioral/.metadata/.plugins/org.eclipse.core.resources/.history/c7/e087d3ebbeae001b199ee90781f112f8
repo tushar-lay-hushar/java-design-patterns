@@ -1,0 +1,37 @@
+package com.behavioral.iterator;
+
+public class ListIterator<E> implements Iterator<E> {
+	
+	private E[] elements;
+	private int postion;
+
+	public ListIterator(E[] elements, int postion) {
+		super();
+		this.elements = elements;
+		this.postion = postion;
+	}
+
+	@Override
+	public boolean hasNext() {
+		return postion >= elements.length ? false : true;
+	}
+
+	@Override
+	public E next() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public E currentItem() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void reset() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

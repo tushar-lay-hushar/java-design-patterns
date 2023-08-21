@@ -1,0 +1,6 @@
+package com.behavioral.strategy;
+
+public interface Talent {
+
+	public void perform();
+}

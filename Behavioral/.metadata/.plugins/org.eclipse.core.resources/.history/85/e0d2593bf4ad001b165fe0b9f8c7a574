@@ -1,0 +1,8 @@
+package com.behavioral.command.board;
+
+import com.behavioral.command.Switch;
+
+public interface Button {
+
+	private Switch command;
+}

@@ -1,0 +1,15 @@
+package com.behavioral.command;
+
+public class TurnOnLight implements Switch {
+	
+	private Light light;
+	
+	publ
+
+	@Override
+	public void turn() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

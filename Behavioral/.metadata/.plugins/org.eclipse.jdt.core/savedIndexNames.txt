@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+D:\WorkSpace\JavaPractice\DesignPatterns\Behavioral\.metadata\.plugins\org.eclipse.jdt.core
+2452782416.index
+1658826165.index
+1862165453.index
+3148887510.index
+4202520094.index
+1968463636.index
+196973030.index
+43516426.index
+529385838.index
+2498493414.index
+3638472311.index

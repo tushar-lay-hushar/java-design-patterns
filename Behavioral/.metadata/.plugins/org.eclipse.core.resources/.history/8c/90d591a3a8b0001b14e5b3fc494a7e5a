@@ -1,0 +1,34 @@
+package com.behavioral.state.context;
+
+import com.behavioral.state.FanOffState;
+import com.behavioral.state.State;
+
+public class Fan {
+	
+	private State fanOffState;
+	private State fanLowState;
+	private State fanMedState;
+	private State fanHighState;
+	
+	private State currentState;
+
+	public Fan() {
+		super();
+		this.currentState = new FanOffState(this);
+	}
+
+	public State getFanLowState() {
+		return fanLowState;
+	}
+
+	public void setState(State state) {
+		this.currentState = state;
+	}
+
+	@Override
+	public String toString() {
+		return currentState.toString();
+	}
+	
+	
+}
