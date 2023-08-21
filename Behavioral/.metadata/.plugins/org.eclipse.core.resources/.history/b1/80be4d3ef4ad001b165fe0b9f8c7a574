@@ -1,8 +1,0 @@
-package com.behavioral.command.board;
-
-import com.behavioral.command.Switch;
-
-public interface Button {
-
-	public void pressButton();
-}

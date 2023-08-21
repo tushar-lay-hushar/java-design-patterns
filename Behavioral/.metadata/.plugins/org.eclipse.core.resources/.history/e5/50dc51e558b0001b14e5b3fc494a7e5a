@@ -1,5 +1,0 @@
-package com.behavioral.observer.subject;
-
-public interface Subject {
-	public void attach()
-}

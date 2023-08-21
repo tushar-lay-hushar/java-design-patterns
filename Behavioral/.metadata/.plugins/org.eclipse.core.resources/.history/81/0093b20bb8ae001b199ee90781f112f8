@@ -1,7 +1,0 @@
-package com.behavioral.momento;
-
-public class Document {
-	
-	private String title;
-	private string content;
-}

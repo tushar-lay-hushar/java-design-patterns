@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.behavioral.cor.request.SupportRequest&apos; to &apos;SupportTicket&apos;&#x0D;&#x0A;- Original project: &apos;Chain of Responsibility&apos;&#x0D;&#x0A;- Original element: &apos;com.behavioral.cor.request.SupportRequest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.behavioral.cor.request.SupportTicket&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SupportRequest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.behavioral.cor.request{SupportRequest.java[SupportRequest" matchStrategy="1" name="SupportTicket" qualified="false" references="true" similarDeclarations="false" stamp="1620252144073" textual="false" version="1.0"/>
-</session>

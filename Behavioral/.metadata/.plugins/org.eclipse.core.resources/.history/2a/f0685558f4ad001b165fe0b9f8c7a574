@@ -1,7 +1,0 @@
-package com.behavioral.command.board;
-
-public interface Button {
-	
-	public void pressButton();
-	
-}

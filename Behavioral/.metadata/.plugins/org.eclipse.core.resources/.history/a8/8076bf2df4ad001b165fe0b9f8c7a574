@@ -1,5 +1,0 @@
-package com.behavioral.command.board;
-
-public interface Button {
-
-}

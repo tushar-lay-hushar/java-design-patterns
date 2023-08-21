@@ -1,5 +1,0 @@
-package com.behavioral.iterator.list;
-
-public interface List<E> {
-
-}

@@ -1,7 +1,0 @@
-INDEX VERSION 1.131+D:\Coding\JavaPractice\DesignPatterns\Creational\.metadata\.plugins\org.eclipse.jdt.core
-3245952837.index
-1091347983.index
-3089517352.index
-3461136891.index
-3814551627.index
-2268119641.index
